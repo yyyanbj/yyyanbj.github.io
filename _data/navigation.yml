@@ -1,6 +1,8 @@
 pages:
 - name: Home
   url: /
+- name: News
+  url: /news
 - name: Publications
   url: /publications
 - name: Projects

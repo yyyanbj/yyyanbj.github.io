@@ -8,17 +8,17 @@ pub_date: "(2020)"
 #     This paper presents an improved method for fitting and predicting the number of COVID-19 confirmed cases using LSTM.
 # cover: /assets/images/covers/cover1.jpg
 authors:
-  - Bingjie Yan
-  - Jun Wang
-  - Zhen Zhang
-  - Xiangyan Tang†
-  - Yize Zhou
-  - Guopeng Zheng
-  - Qi Zou
-  - Yao Lu
-  - Boyi Liu
-  - Wenxuan Tu
-  - Neal Xiong 
+  - Bingjie YAN
+  - Jun WANG
+  - Zhen ZHANG
+  - Xiangyan TANG†
+  - Yize ZHOU
+  - Guopeng ZHENG
+  - Qi ZOU
+  - Yao LU
+  - Boyi LIU
+  - Wenxuan TU
+  - Neal XIONG 
 links: 
   Paper: https://www.techscience.com/cmc/v64n3/39440/pdf 
   Bib: bib/yan2020improved.txt

@@ -32,7 +32,7 @@
                             <h6>Honors & Awards</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.awards %}
-                                <li>
+                                <li {% if item.name contains 'color="#FF0000"' or item.name contains "color='#FF0000'" %}style="color: #FF0000;"{% endif %}>
                                     <div class="d-flex">
                                         <div>{{ item.name }}</div>
                                         <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
