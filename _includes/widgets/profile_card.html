@@ -49,9 +49,17 @@
                 <hr />
                 <div class="row">
                     <div class="col">
-                        <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
-                        </a>
+                        {% if site.data.profile.emails %}
+                            {% for em in site.data.profile.emails %}
+                            <a class="pr-3 no-break" href="mailto:{{ em | encode_email }}">
+                                <i class="fas fa-at"></i> <span class="email-text">{{ em | replace: "@", "(at)" }}</span>
+                            </a>
+                            {% endfor %}
+                        {% elsif site.data.profile.email %}
+                            <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
+                                <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                            </a>
+                        {% endif %}
 
                         {% if site.data.profile.gscholar %}
                         <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}&hl=en">

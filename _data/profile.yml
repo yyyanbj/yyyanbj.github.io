@@ -11,7 +11,11 @@ positions:
   name: School of Optometry, Hong Kong Polytechnic University
 
 
-email: "bj.yan@ieee.org"
+# email: "bj.yan@ieee.org"
+emails:
+- "bj.yan@ieee.org"
+- "bingjie.yan@connect.polyu.hk"
+
 # cv_link: link-to-your-cv-file
 gscholar: DVsgN1sAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: yyyanbj
