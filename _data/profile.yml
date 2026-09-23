@@ -96,11 +96,17 @@ awards:
 
 
 conference_program_committee:
-- name: AAAI
+- name: Program Committee Member
+  position: AAAI
+  date: 2024 - Present
 
 reviewer:
-- name: MICCAI
-- name: AAAI
+- name: Reviewer
+  position: MICCAI
+  date: 2024 - Present
+- name: Reviewer
+  position: AAAI
+  date: 2024 - Present
 
 services:
 - name: IEEE Hainan University Branch
