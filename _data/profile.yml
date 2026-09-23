@@ -30,18 +30,18 @@ bilibili: https://space.bilibili.com/23511429
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a second-year Ph.D. student at <a href="https://www.polyu.edu.hk/so/">School of Optometry, Hong Kong Polytechnic University</a>,
-    supervised by Prof. <a href="https://scholar.google.com/citations?user=QyF6ivQAAAAJ&hl=en&oi=ao">Danli SHI</a> 
+    I am a second-year Ph.D. student in the <a href="https://www.polyu.edu.hk/so/">School of Optometry at The Hong Kong Polytechnic University</a>,
+    supervised by Prof. <a href="https://scholar.google.com/citations?user=QyF6ivQAAAAJ&hl=en&oi=ao">Danli SHI</a>
     and co-supervised by Prof. <a href="https://scholar.google.com/citations?user=uVVC9F8AAAAJ&hl=en">Mingguang HE</a>.
-    Before that, I received my M.Eng. degree in Electronic Information from 
+    Before that, I received an M.Eng. degree in Electronic Information from the
     <a href="http://www.ict.cas.cn/">Institute of Computing Technology, Chinese Academy of Sciences</a>,
-    under the supervision of Prof. <a href="https://scholar.google.com/citations?user=LC3SwhEAAAAJ&hl=en&authuser=1&oi=ao">Yiqiang CHEN</a>
-    and Prof. <a href="https://scholar.google.com/citations?user=zMyg3vcAAAAJ&hl=en&oi=ao">Xinlong JIANG</a>,
-    and my B.Eng. degree in Software Engineering from <a href="https://www.hainanu.edu.cn/">Hainan University</a>.
+    where I was supervised by Prof. <a href="https://scholar.google.com/citations?user=LC3SwhEAAAAJ&hl=en&authuser=1&oi=ao">Yiqiang CHEN</a>
+    and Prof. <a href="https://scholar.google.com/citations?user=zMyg3vcAAAAJ&hl=en&oi=ao">Xinlong JIANG</a>.
+    I also received a B.Eng. degree in Software Engineering from <a href="https://www.hainanu.edu.cn/">Hainan University</a>.
   </p>
   <p>
     <b>Research Interests:</b> <br />
-    ⚡ <b>Medical Agent & Agentic AI:</b> AI agents for healthcare, autonomous medical systems, and intelligent clinical decision support.
+    ⚡ <b>Medical Agents and Agentic AI:</b> AI agents for healthcare, autonomous medical systems, and intelligent clinical decision support.
   </p>
   <p>
     Please feel free to contact me via email if you are interested in my research!
@@ -54,7 +54,7 @@ portrait_url: /assets/images/photos/avatar.jpg
 education:
 - name: Hong Kong Polytechnic University
   logo: /assets/images/badges/polyu.png
-  position: Ph.D. Student in School of Optometry
+  position: Ph.D. Student in the School of Optometry
   date: Sep. 2025 - present
 - name: Institute of Computing Technology, Chinese Academy of Sciences
   logo: /assets/images/badges/ict.png
@@ -89,7 +89,7 @@ awards:
   date: 2024
 - name: Outstanding Graduate of Hainan University
   date: 2022
-- name: Many Innovation and Entrepreneurship Awards and Competitions
+- name: Awards in various innovation and entrepreneurship competitions
   date: 2019-2022
 - name: First-Class Scholarship of Hainan University
   date: 2019
