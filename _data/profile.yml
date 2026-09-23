@@ -96,13 +96,11 @@ awards:
 
 
 conference_program_committee:
-- name: AAAI Conference on Artificial Intelligence
-  position: Program Committee Member
-  date: 2025 - present
+- name: AAAI
 
 reviewer:
-- name: Medical Image Computing and Computer Assisted Intervention (MICCAI)
-- name: AAAI Conference on Artificial Intelligence
+- name: MICCAI
+- name: AAAI
 
 services:
 - name: IEEE Hainan University Branch

@@ -49,16 +49,12 @@
                         <div class="mx-2 my-1">
                             <h6>Services</h6>
                             {% if site.data.profile.conference_program_committee %}
-                            <div class="small font-weight-bold mt-2">Conference Program Committee</div>
+                            <div class="small font-weight-bold mt-2">PC</div>
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.conference_program_committee %}
                                 <li class="media mb-1">
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
-                                        <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
-                                            {% if item.date %}<div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>{% endif %}
-                                        </div>
                                     </div>
                                 </li>
                                 {% endfor %}
@@ -72,7 +68,6 @@
                                 <li class="media mb-1">
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
-                                        <div class="small">Reviewer</div>
                                     </div>
                                 </li>
                                 {% endfor %}
