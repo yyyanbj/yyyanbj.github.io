@@ -95,10 +95,16 @@ awards:
   date: 2019
 
 
-services:
+conference_program_committee:
 - name: AAAI Conference on Artificial Intelligence
-  position: Program Committee Member & Reviewer
+  position: Program Committee Member
   date: 2025 - present
+
+reviewer:
+- name: Medical Image Computing and Computer Assisted Intervention (MICCAI)
+- name: AAAI Conference on Artificial Intelligence
+
+services:
 - name: IEEE Hainan University Branch
   position: President
   date: Mar. 2021 - Jun. 2022
