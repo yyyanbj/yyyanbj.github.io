@@ -69,27 +69,10 @@
                     </div>
                     {% endif %}
 
-                    {% if site.data.profile.conference_program_committee or site.data.profile.reviewer %}
+                    {% if site.data.profile.reviewer %}
                     <div class="col-md-6">
                         <div class="mx-2 my-1">
                             <h6>Academic Services</h6>
-                            {% if site.data.profile.conference_program_committee %}
-                            <ul class="list-unstyled mb-1">
-                                {% for item in site.data.profile.conference_program_committee %}
-                                <li class="media mb-1">
-                                    <div class="media-body">
-                                        <div>{{ item.name }}</div>
-                                        <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
-                                            <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
-                                        </div>
-                                    </div>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                            {% endif %}
-
-                            {% if site.data.profile.reviewer %}
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.reviewer %}
                                 <li class="media mb-1">
@@ -103,7 +86,6 @@
                                 </li>
                                 {% endfor %}
                             </ul>
-                            {% endif %}
                         </div>
                     </div>
                     {% endif %}

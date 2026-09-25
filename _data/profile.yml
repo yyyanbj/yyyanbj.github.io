@@ -95,11 +95,6 @@ awards:
   date: 2019
 
 
-conference_program_committee:
-- name: Program Committee Member
-  position: AAAI
-  date: 2025 - Present
-
 reviewer:
 - name: Reviewer
   position: MICCAI, AAAI
