@@ -20,5 +20,5 @@ authors:
   - Qiang YANG
   - Ya-Qin ZHANG
 links:
-  arXiv: https://arxiv.org/abs/2504.17421
+  arXiv: https://arxiv.org/abs/2504.17421v2
 ---

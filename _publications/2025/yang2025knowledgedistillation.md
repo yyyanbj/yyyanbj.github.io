@@ -18,5 +18,4 @@ authors:
 links:
   Paper: https://dl.acm.org/doi/10.1145/3699518
   DOI: https://doi.org/10.1145/3699518
-  arXiv: https://arxiv.org/abs/2407.01885
 ---
