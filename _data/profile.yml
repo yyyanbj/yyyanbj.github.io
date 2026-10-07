@@ -39,10 +39,13 @@ short_bio: >-
     and Prof. <a href="https://scholar.google.com/citations?user=zMyg3vcAAAAJ&hl=en&oi=ao">Xinlong JIANG</a>.
     I also received a B.Eng. degree in Software Engineering from <a href="https://www.hainanu.edu.cn/">Hainan University</a>.
   </p>
-  <p>
-    <b>Research Interests:</b> <br />
-    ⚡ <b>Medical Agents and Agentic AI:</b> AI agents for healthcare, autonomous medical systems, and intelligent clinical decision support.
-  </p>
+  <p><b>Research Interests:</b></p>
+  <ul class="mb-0 pl-3">
+    <li><b>Medical Agents and Agentic AI:</b> Clinical decision support and autonomous ophthalmic workflows, including <a href="https://arxiv.org/abs/2511.09394v2">EyeAgent</a>, <a href="https://2026.asiateleophth.org/free-papers-detail/?id=80">EyeFlow</a>, <a href="https://arxiv.org/abs/2603.14039">EyeWorld</a>, and <a href="https://arxiv.org/abs/2603.06902">SELSM</a>.</li>
+    <li><b>Multimodal Ophthalmic AI:</b> Vision-language benchmarks and report generation, including <a href="https://doi.org/10.1016/j.aopr.2025.10.006">OphthalWeChat</a>, <a href="https://doi.org/10.1109/BIBM62325.2024.10822152">EyeGraphGPT</a>, and <a href="https://dl.acm.org/doi/10.1145/3627673.3679627">Buffalo</a>.</li>
+    <li><b>Privacy-Preserving Federated Learning:</b> Cross-silo training and model fusion, including <a href="https://www.cell.com/patterns/fulltext/S2666-3899(24)00019-9">FedEYE</a>, <a href="https://ieeexplore.ieee.org/document/10476260">FedTAM</a>, <a href="https://doi.org/10.1109/ICME59968.2025.11209282">FairFHTL</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10643309/">PrivFusion</a>, and <a href="https://ieeexplore.ieee.org/abstract/document/10597838/">Model Trip</a>.</li>
+    <li><b>Online Optimization and Learning Systems:</b> Constrained optimization, contribution measurement, and asynchronous training, including <a href="https://doi.org/10.1609/aaai.v39i20.35411">COLDQ</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9534451/">FedCM</a>, and <a href="https://ieeexplore.ieee.org/document/10476054">AFL-CS</a>.</li>
+  </ul>
   <p>
     Please feel free to contact me via email if you are interested in my research!
   </p>
