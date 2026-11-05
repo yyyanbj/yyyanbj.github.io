@@ -39,6 +39,44 @@ h1, h2, h3, h4, h5, h6,
     max-height: 120px;
 }
 
+.publication-thumbnail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 120px;
+}
+
+.publication-thumbnail img,
+.publication-thumbnail svg {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.publication-thumbnail img.lazy {
+    min-height: 0;
+}
+
+.publication-card-mobile {
+    position: relative;
+    overflow: hidden;
+}
+
+.publication-card-placeholder {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.publication-card-overlay {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
 .abstract-body {
     min-height: 100px;
 }

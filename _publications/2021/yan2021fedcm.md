@@ -6,7 +6,8 @@ pub: "IJCNN, CCF-C"
 pub_date: "(2021)"
 abstract: >-
   FedCM measures each participant's contribution during federated training by combining current- and previous-round signals, allowing per-round updates for fair credit and resource allocation. Experiments show that it reflects both data quantity and quality.
-# cover: /assets/images/covers/cover1.jpg
+# Figure 1, https://arxiv.org/pdf/2009.03510
+cover: /assets/images/covers/yan2021fedcm.png
 authors:
   - Bingjie YAN
   - Boyi LIU†

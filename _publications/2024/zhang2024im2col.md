@@ -7,7 +7,8 @@ pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Oral</
 pub_date: "(2024)"
 abstract: >-
   Im2col-Winograd decomposes multidimensional convolution into 1D Winograd operations to accelerate NHWC-format convolution on GPUs with less workspace. The implementation supports filter widths 2–9 and reports speedups over cuDNN baselines.
-# cover: /assets/images/covers/im2col.png
+# Figure 2, https://doi.org/10.1145/3673038.3673039 (CC BY 4.0)
+cover: /assets/images/covers/zhang2024im2col.png
 authors:
   - Zhiyi ZHANG
   - Pengfei ZHANG
@@ -17,4 +18,5 @@ authors:
 links:
   Paper: https://dl.acm.org/doi/10.1145/3673038.3673039
   Bib: bib/zhang2024im2col.txt
+  "Figure (cropped, CC BY 4.0)": https://creativecommons.org/licenses/by/4.0/
 ---

@@ -6,7 +6,8 @@ pub: "Computers, Materials and Continua, SCI"
 pub_date: "(2020)"
 abstract: >-
   This paper presents an improved LSTM-based method for fitting and predicting confirmed COVID-19 case counts, and evaluates its forecasting performance on pandemic data.
-# cover: /assets/images/covers/cover1.jpg
+# Figure 2, https://arxiv.org/pdf/2005.03446
+cover: /assets/images/covers/yan2020improved.png
 authors:
   - Bingjie YAN
   - Jun WANG
