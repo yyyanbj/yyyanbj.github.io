@@ -4,6 +4,8 @@ date: 2026-03-14 00:00:00 +0800
 selected: false
 pub: "arXiv preprint, arXiv:2603.14039"
 pub_date: "(2026)"
+# Figure 1c, https://arxiv.org/pdf/2603.14039v1
+cover: /assets/images/covers/gao2026eyeworld.png
 abstract: >-
   EyeWorld models the eye as a partially observed dynamic system. It learns a shared ocular state across imaging modalities and uses longitudinal data to model state changes, enabling cross-modal interpretation and forecasting of clinically relevant progression.
 authors:

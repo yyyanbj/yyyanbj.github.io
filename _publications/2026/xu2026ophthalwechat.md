@@ -4,6 +4,8 @@ date: 2026-02-01 00:00:00 +0800
 selected: false
 pub: "Advances in Ophthalmology Practice and Research, 6(1), 33–41"
 pub_date: "(2026)"
+# Figure 1, https://pmc.ncbi.nlm.nih.gov/articles/PMC12834899/
+cover: /assets/images/covers/xu2026ophthalwechat.jpg
 abstract: >-
   This study introduces OphthalWeChat, a bilingual visual question-answering benchmark built from real-world ophthalmic image posts. It contains 3,469 images and 30,120 question-answer pairs spanning nine ophthalmic subspecialties and supports evaluation of multimodal models in realistic eye-care scenarios.
 authors:

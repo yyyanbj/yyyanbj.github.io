@@ -1,0 +1,43 @@
+# List publication slugs in display order; unlisted papers appear under Other Publications.
+- id: medical-agents
+  title: Medical Agents and Agentic AI
+  publications:
+    - yan2026eyeflow
+    - shi2025eyeagent
+    - yang2026selsm
+    - chen2026ophthalmicagentsreview
+
+- id: multimodal-biomedical-ai
+  title: Multimodal and Biomedical AI
+  publications:
+    - gao2026eyeworld
+    - xu2026ophthalwechat
+    - wang2024eyegraphgpt
+    - huang2024cdmmgd
+    - yan2020improved
+
+- id: federated-learning
+  title: Federated Learning and Privacy
+  publications:
+    - zhang2025fairfhtl
+    - yan2024buffalo
+    - chen2024privfusion
+    - chen2024modeltrip
+    - yan2024fedeye
+    - mou2023fedtam
+    - yan2021fedcm
+    - yan2021experiments
+
+- id: foundation-models
+  title: Foundation Models and Knowledge Distillation
+  publications:
+    - yang2025knowledgedistillation
+    - liu2025largesmallmodels
+
+- id: optimization-computing
+  title: Online Optimization and Computing Systems
+  publications:
+    - yan2025doublybounded
+    - zhang2024im2col
+    - chen2023ubimeta
+    - yan2023aflcs
