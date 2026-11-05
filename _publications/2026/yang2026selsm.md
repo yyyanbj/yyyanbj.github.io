@@ -19,5 +19,5 @@ authors:
   - Yalin ZHENG
   - Danli SHI
 links:
-  "arXiv:2603.06902": https://arxiv.org/abs/2603.06902
+  arXiv: https://arxiv.org/abs/2603.06902
 ---

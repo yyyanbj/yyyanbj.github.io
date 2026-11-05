@@ -23,5 +23,5 @@ authors:
   - Mingguang HE
   - Danli SHI
 links:
-  "arXiv:2603.14039": https://arxiv.org/abs/2603.14039
+  arXiv: https://arxiv.org/abs/2603.14039
 ---

@@ -38,6 +38,6 @@ authors:
   - Zongyuan GE
   - Mingguang HE†
 links:
-  "arXiv:2511.09394": https://arxiv.org/abs/2511.09394
+  arXiv: https://arxiv.org/abs/2511.09394
   PDF: https://arxiv.org/pdf/2511.09394
 ---
