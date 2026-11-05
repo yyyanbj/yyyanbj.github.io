@@ -67,3 +67,14 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.profile-email {
+    display: inline-flex;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.profile-email .email-text {
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+

@@ -80,7 +80,9 @@
                                         <div>{{ item.name }}</div>
                                         <div class="small d-flex">
                                             <div>{{ item.position }}</div>
+                                            {% if item.date %}
                                             <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
+                                            {% endif %}
                                         </div>
                                     </div>
                                 </li>

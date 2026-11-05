@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col">
         <div class="card border-0 shadow-sm bg-white">
-            <div class="card-body p-5">
+            <div class="card-body p-3 p-md-5">
                 <div class="row">
                     <div class="col">
                         {% if site.data.profile.portrait_url %}
@@ -40,27 +40,27 @@
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
-                        {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
-                        {% endif %}
                     </div>
         
                 </div>
                 <hr />
                 <div class="row">
                     <div class="col">
+                        <div>
                         {% if site.data.profile.emails %}
                             {% for em in site.data.profile.emails %}
-                            <a class="pr-3 no-break" href="mailto:{{ em | encode_email }}">
-                                <i class="fas fa-at"></i> <span class="email-text">{{ em | replace: "@", "(at)" }}</span>
+                            <a class="profile-email pr-md-3" href="mailto:{{ em | encode_email }}">
+                                <i class="fas fa-at mr-1"></i><span class="email-text">{{ em | replace: "@", "(at)" | replace: ".", ".<wbr>" }}</span>
                             </a>
                             {% endfor %}
                         {% elsif site.data.profile.email %}
-                            <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
-                                <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                            <a class="profile-email pr-md-3" href="mailto:{{ site.data.profile.email | encode_email }}">
+                                <i class="fas fa-at mr-1"></i><span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" | replace: ".", ".<wbr>" }}</span>
                             </a>
                         {% endif %}
+                        </div>
 
+                        <div class="mt-1">
                         {% if site.data.profile.gscholar %}
                         <a class="pr-3 no-break" target="_blank" href="https://scholar.google.com/citations?user={{ site.data.profile.gscholar }}&hl=en">
                             <i class="fab fa-google-scholar"></i> Google Scholar
@@ -96,6 +96,12 @@
                             <i class="fab fa-orcid"></i> ORCID
                         </a>
                         {% endif %}
+                        {% if site.data.profile.cv_link %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
+                            <i class="fas fa-file-alt"></i> Curriculum Vitae
+                        </a>
+                        {% endif %}
+                        </div>
                     </div>
                 </div>
             </div>
