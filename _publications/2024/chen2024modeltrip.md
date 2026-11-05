@@ -2,6 +2,7 @@
 title: "Model Trip: Enhancing Privacy and Fairness in Model Fusion across Multi-Federations for Trustworthy Global Healthcare"
 date: 2024-05-13 00:01:00 +0800
 selected: true
+selected_order: 3
 pub: "ICDE'24, CCF-A"
 pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Oral</span>'
 pub_date: "(2024)"

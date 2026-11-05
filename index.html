@@ -21,7 +21,7 @@ navbar_title: Home
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% assign pubs = site.publications | where: "selected", true | sort: "selected_order" %}
     {% 
         include widgets/publication_card.html 
         publications=pubs

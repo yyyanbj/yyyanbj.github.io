@@ -2,6 +2,7 @@
 title: "FedEYE: A Scalable and Flexible End-to-end Federated Learning Platform for Ophthalmology"
 date: 2024-02-09 00:01:00 +0800
 selected: true
+selected_order: 1
 pub: "Patterns, Cell Press, JCR-Q1, IF=6.7"
 pub_date: "(2024)"
 abstract: >-
