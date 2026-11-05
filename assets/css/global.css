@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5, h6,
     max-height: 120px;
 }
 
+.publication-area-heading {
+    scroll-margin-top: 5rem;
+}
+
 .publication-thumbnail {
     display: flex;
     align-items: center;
