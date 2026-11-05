@@ -2,7 +2,7 @@
 title: "Correlation-Driven Multi-Modality Graph Decomposition for Cross-Subject Emotion Recognition"
 date: 2024-07-21 00:01:00 +0800
 selected: false
-pub: "ACM MM'24, CCF-A, CORE-A*"
+pub: "ACM MM'24, CCF-A, CORE-A* <font color='red'>(Acceptance rate: 26.2%)</font>"
 pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Poster</span>'
 pub_date: "(2024)"
 abstract: >-

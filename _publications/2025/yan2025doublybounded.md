@@ -2,7 +2,7 @@
 title: "Doubly-Bounded Queue for Constrained Online Learning: Keeping Pace with Dynamics of Both Loss and Constraint"
 date: 2025-04-11 00:00:00 +0800
 selected: false
-pub: "Proceedings of the AAAI Conference on Artificial Intelligence, 39(20), 21135–21143"
+pub: "Proceedings of the AAAI Conference on Artificial Intelligence, 39(20), 21135–21143 <font color='red'>(Acceptance rate: 23.4%)</font>"
 pub_date: "(2025)"
 abstract: >-
   This work studies online convex optimization with changing losses and constraints. It introduces COLDQ, a method that uses a bounded virtual queue to control hard constraint violations while providing dynamic-regret guarantees without requiring the Slater condition.

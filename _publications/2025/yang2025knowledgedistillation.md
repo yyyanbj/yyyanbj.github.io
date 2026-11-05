@@ -3,7 +3,7 @@ title: "Survey on Knowledge Distillation for Large Language Models: Methods, Eva
 date: 2025-11-24 00:00:00 +0800
 selected: false
 pub: "ACM Transactions on Intelligent Systems and Technology, 16(6), Article 143"
-pub_date: "(2025)"
+pub_date: "(2025 issue; accepted online 2024; IF: 6.6 (2024), 10.7 (2025))"
 # Figure 1, https://arxiv.org/pdf/2407.01885
 cover: /assets/images/covers/yang2025knowledgedistillation.png
 abstract: >-

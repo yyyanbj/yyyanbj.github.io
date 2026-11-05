@@ -3,8 +3,8 @@ title: "FedEYE: A Scalable and Flexible End-to-end Federated Learning Platform f
 date: 2024-02-09 00:01:00 +0800
 selected: true
 selected_order: 1
-pub: "Patterns, Cell Press, JCR-Q1, IF=6.7"
-pub_date: "(2024)"
+pub: "Patterns, Cell Press, JCR-Q1"
+pub_date: "(2024, IF: 7.4)"
 abstract: >-
   FedEYE is an end-to-end federated-learning platform that lets ophthalmologists create and deploy collaborative machine-learning projects without programming. It supports flexible deployment while keeping clinical data decentralized.
 cover: /assets/images/covers/yan2024fedeye.jpg
