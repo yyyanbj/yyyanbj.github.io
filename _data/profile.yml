@@ -98,10 +98,13 @@ awards:
   date: 2019
 
 
-reviewer:
-- name: Reviewer
+professional_activities:
+- name: Conference Reviewer
   position: MICCAI, AAAI
   date: 2025 - Present
+- name: Teaching Assistant
+  position: "SO1D02: AI in Healthcare, The Hong Kong Polytechnic University"
+  date: 1st Sem. 2026/27
 
 services:
 - name: IEEE Hainan University Branch
