@@ -12,7 +12,7 @@ authors:
   - Jun WANG
   - Jieren CHENG†
   - Yize ZHOU
-  - Yixin ZHANG
+  - Yixian ZHANG
   - Yifan YANG
   - Li LIU
   - Haojiang ZHAO

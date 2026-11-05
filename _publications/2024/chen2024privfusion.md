@@ -11,11 +11,12 @@ authors:
   - Qian CHEN
   - Yiqiang CHEN†
   - Xinlong JIANG
+  - Teng ZHANG
   - Weiwei DAI
   - Wuliang HUANG
   - Bingjie YAN
   - Zhen YAN
-  - Lu WANG
+  - Wang LU
   - Bo YE
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10643309/

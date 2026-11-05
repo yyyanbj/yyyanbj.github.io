@@ -4,7 +4,7 @@ date: 2026-03-06 00:00:00 +0800
 selected: false
 pub: "arXiv preprint, arXiv:2603.06902"
 pub_date: "(2026)"
-# Figure 1, https://arxiv.org/pdf/2603.06902v1
+# Figure 1, https://arxiv.org/pdf/2603.06902
 cover: /assets/images/covers/yang2026selsm.png
 abstract: >-
   This work introduces SELSM, a training-free memory framework that distills simulated clinical workflows into reusable, entity-agnostic skills. A query-anchored retrieval method uses those skills to guide locally deployable agents through FHIR-based electronic health record tasks.
@@ -19,5 +19,5 @@ authors:
   - Yalin ZHENG
   - Danli SHI
 links:
-  arXiv: https://arxiv.org/abs/2603.06902
+  "arXiv:2603.06902": https://arxiv.org/abs/2603.06902
 ---

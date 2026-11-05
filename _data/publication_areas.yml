@@ -17,9 +17,10 @@
     - yan2020improved
 
 - id: federated-learning
-  title: Federated Learning and Privacy
+  title: Federated Learning and Privacy Preserving
   publications:
     - zhang2025fairfhtl
+    - liu2025largesmallmodels
     - yan2024buffalo
     - chen2024privfusion
     - chen2024modeltrip
@@ -29,15 +30,18 @@
     - yan2021experiments
 
 - id: foundation-models
-  title: Foundation Models and Knowledge Distillation
+  title: Large Language Model & Knowledge Distillation
   publications:
     - yang2025knowledgedistillation
-    - liu2025largesmallmodels
 
-- id: optimization-computing
-  title: Online Optimization and Computing Systems
+- id: online-optimization
+  title: Online Optimization
   publications:
     - yan2025doublybounded
+    - yan2023aflcs
+
+- id: computing-systems
+  title: Computing Systems
+  publications:
     - zhang2024im2col
     - chen2023ubimeta
-    - yan2023aflcs
