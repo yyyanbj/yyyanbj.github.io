@@ -40,4 +40,5 @@ authors:
 links:
   arXiv: https://arxiv.org/abs/2511.09394
   PDF: https://arxiv.org/pdf/2511.09394
+  EyeAgent Code: https://github.com/yyyanbj/eyeagent
 ---

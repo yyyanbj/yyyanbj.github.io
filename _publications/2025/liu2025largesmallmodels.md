@@ -25,4 +25,5 @@ authors:
   - Ya-Qin ZHANG
 links:
   arXiv: https://arxiv.org/abs/2504.17421
+  Resources: https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration
 ---

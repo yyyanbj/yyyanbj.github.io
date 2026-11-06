@@ -25,7 +25,7 @@ authors:
 links: 
   Paper: https://www.cell.com/patterns/fulltext/S2666-3899(24)00019-9 
   Bib: bib/yan2024fedeye.txt
-  Code: https://github.com/beiyuouo/FedEYE
+  Code: https://github.com/yyyanbj/FedEYE
   Page: https://www.bj-yan.top/FedEYE/
   Site: https://fedeye.aierchina.com/
 ---
