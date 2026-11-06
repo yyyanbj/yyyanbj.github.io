@@ -2,8 +2,8 @@
 title: "Benchmarking large multimodal models for ophthalmic visual question answering with OphthalWeChat"
 date: 2026-02-01 00:00:00 +0800
 selected: false
-pub: "Advances in Ophthalmology Practice and Research, 6(1), 33–41"
-pub_date: "(2026 issue; online 2025, IF: 4.5)"
+pub: "Advances in Ophthalmology Practice and Research, 6(1), 33–41, JCR-Q1"
+pub_date: "(2026, IF (2025): 4.5)"
 # Figure 1, https://pmc.ncbi.nlm.nih.gov/articles/PMC12834899/
 cover: /assets/images/covers/xu2026ophthalwechat.jpg
 abstract: >-

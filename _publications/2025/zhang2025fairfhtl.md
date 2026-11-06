@@ -2,7 +2,7 @@
 title: "FairFHTL: Achieving Task-Agnostic Fairness in Federated Hetero-Task Learning"
 date: 2025-06-30 00:00:00 +0800
 selected: false
-pub: "IEEE International Conference on Multimedia and Expo (ICME 2025), pp. 1–6 <font color='red'>(Acceptance rate: 27.3%)</font>"
+pub: "IEEE International Conference on Multimedia and Expo (ICME 2025), pp. 1–6, CCF-B <font color='red'>(Acceptance Rate: 27.3%)</font>"
 pub_date: "(2025)"
 abstract: >-
   This work addresses performance fairness when federated clients train heterogeneous tasks. FairFHTL combines task-independent shared representations with fair resource allocation to balance the global model's updates across tasks.

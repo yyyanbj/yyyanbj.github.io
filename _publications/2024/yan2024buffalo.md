@@ -2,7 +2,7 @@
 title: "Buffalo: Biomedical Vision-Language Understanding with Cross-Modal Prototype and Federated Foundation Model Collaboration"
 date: 2024-10-21 00:01:00 +0800
 selected: false
-pub: "ACM CIKM'24, CCF-B, CORE-A <font color='red'>(Full research acceptance rate: 23.2%)</font>"
+pub: "ACM CIKM'24, CCF-B, CORE-A <font color='red'>(Acceptance Rate: 23.2%)</font>"
 pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Oral</span>'
 pub_date: "(2024)"
 abstract: >-

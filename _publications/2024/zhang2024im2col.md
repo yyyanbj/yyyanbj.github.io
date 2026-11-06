@@ -2,7 +2,7 @@
 title: "Im2col-Winograd: An Efficient and Flexible Fused-Winograd Convolution for NHWC Format on GPUs"
 date: 2024-08-12 00:01:00 +0800
 selected: false
-pub: "ICPP'24, CCF-B <font color='red'>(Acceptance rate: 29.4%)</font>"
+pub: "ICPP'24, CCF-B <font color='red'>(Acceptance Rate: 29.4%)</font>"
 pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Oral</span>'
 pub_date: "(2024)"
 abstract: >-

@@ -2,7 +2,7 @@
 title: "Experiments of Federated Learning for COVID-19 Chest X-ray Images"
 date: 2021-06-29 00:01:00 +0800
 selected: false
-pub: "ICAIS, EI <font color='red'>(Overall acceptance rate: 30%)</font>"
+pub: "ICAIS, EI <font color='red'>(Acceptance Rate: 30%)</font>"
 pub_date: "(2021)"
 abstract: >-
   This study evaluates federated learning for COVID-19 detection from chest X-rays, comparing image classifiers while keeping hospital data local.

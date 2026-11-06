@@ -2,7 +2,7 @@
 title: "An Improved Method for the Fitting and Prediction of the Number of COVID-19 Confirmed Cases Based on LSTM"
 date: 2020-05-29 00:01:00 +0800
 selected: false
-pub: "Computers, Materials and Continua, SCI"
+pub: "Computers, Materials and Continua, SCI, JCR-Q2"
 pub_date: "(2020, IF: 3.772)"
 abstract: >-
   This paper presents an improved LSTM-based method for fitting and predicting confirmed COVID-19 case counts, and evaluates its forecasting performance on pandemic data.

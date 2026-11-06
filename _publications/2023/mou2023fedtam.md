@@ -2,7 +2,7 @@
 title: "FedTAM: Decentralized Federated Learning with a Feature Attention Based Multi-teacher Knowledge Distillation for Healthcare"
 date: 2023-12-17 00:01:00 +0800
 selected: false
-pub: "IEEE ICPADS, CCF-C <font color='red'>(Regular paper acceptance rate: 19.4%)</font>"
+pub: "IEEE ICPADS, CCF-C <font color='red'>(Acceptance Rate: 19.4%)</font>"
 pub_last: ' <span class="badge badge-pill badge-publication badge-danger">Oral</span>'
 pub_date: "(2023)"
 abstract: >-

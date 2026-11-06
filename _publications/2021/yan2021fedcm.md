@@ -2,7 +2,7 @@
 title: "FedCM: A Real-time Contribution Measurement Method for Participants in Federated Learning"
 date: 2021-07-18 00:01:00 +0800
 selected: false
-pub: "IJCNN, CCF-C <font color='red'>(Acceptance rate: 59.3%)</font>"
+pub: "IJCNN, CCF-C"
 pub_date: "(2021)"
 abstract: >-
   FedCM measures each participant's contribution during federated training by combining current- and previous-round signals, allowing per-round updates for fair credit and resource allocation. Experiments show that it reflects both data quantity and quality.
